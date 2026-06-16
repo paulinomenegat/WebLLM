@@ -1,3 +1,7 @@
+
+<img width="985" height="654" alt="image" src="https://github.com/user-attachments/assets/8db55ad9-2d07-4faf-828e-83da8d90bd59" />
+
+
 Local IA - WebLLM Local Chat 🤖
 
 English | Português
